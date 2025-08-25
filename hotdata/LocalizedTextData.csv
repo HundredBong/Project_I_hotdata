@@ -1,0 +1,219 @@
+Key,KR,EN
+Armor_Plate_01,일반 방어구 1형,Basic Armor I
+Armor_Plate_02,일반 방어구 2형,Basic Armor II
+Armor_Plate_03,보급형 방어구 1형,Standard Armor I
+Armor_Plate_04,보급형 방어구 2형,Standard Armor II
+Armor_Plate_05,고급 방어구 1형,Advanced Armor I
+Armor_Plate_06,고급 방어구 2형,Advanced Armor II
+Armor_Plate_07,마력 깃든 방어구,Enchanted Armor
+Armor_Plate_08,기사단 방어구,Knights' Armor
+Armor_Plate_09,상급 기사 방어구,Elite Knight Armor
+Armor_Plate_10,용비늘 방어구,Dragonscale Armor
+Grade_Common,일반,Common
+Grade_Epic,영웅,Epic
+Grade_Legendary,전설,Legendary
+Grade_Mythical,신화,Mythical
+Grade_Rare,희귀,Rare
+Grade_Uncommon,고급,Uncommon
+HUD_Inventory,인벤토리,Inventory
+HUD_Menu,메뉴,Menu
+HUD_Shop,상점,Shop
+HUD_Skill,스킬,Skill
+HUD_Stat,능력치,Stat
+Item_Effect_CriticalChanceBonus,크리티컬 확률 보너스,Critical Damage Bonus
+Item_Effect_CriticalDamageBonus,크리티컬 대미지 보너스,Critical Chance Bonus
+Item_Effect_DamageBonus,공격력 보너스,Damage Bonus
+Item_Effect_ExpBonus,경험치 획득량 증가,Exp Bonus
+Item_Effect_GoldBonus,골드 획득량 증가,Gold Bonus
+Item_Effect_HealthBonus,체력 보너스,Health Bonus
+Item_Stage,단계,Stage
+Necklace_01,뼈목걸이 1형,Bone Necklace I
+Necklace_02,뼈목걸이 2형,Bone Necklace II
+Necklace_03,돌목걸이 1형,Stone Necklace I
+Necklace_04,돌목걸이 2형,Stone Necklace II
+Necklace_05,루비 목걸이,Ruby Necklace
+Necklace_06,황수정 목걸이,Topaz Necklace
+Necklace_07,흑옥 목걸이,Onyx Necklace
+Necklace_08,자수정 목걸이,Amethyst Necklace
+Necklace_09,에메랄드 목걸이,Emerald Necklace
+Necklace_10,다이아몬드 목걸이,Diamond Necklace
+Skill_Charge_Desc,최대 {targetCount}명의 적에게 돌진해 <color=white>{damage}%</color>의 대미지를 입히고| 타격당 플레이어는 최대 체력의 3%만큼 체력을 회복합니다.<color=yellow>(쿨타임 {cooldown}초)</color>,Charge at up to {targetCount} enemies| dealing <color=white>{damage}%</color> damage. The player recovers HP equal to 3% of their max health for each enemy hit. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_Charge_Name,돌진,Charge
+Skill_Count,보유 수량,Skills owned
+Skill_DarkBoom_Desc,어두운 기운이 폭발하며 주변의 적들에게 <color=white>{damage}%</color>의 피해를 {hitCount}회 입힙니다. <color=yellow>(쿨타임 {cooldown}초)</color>,Dark energy explodes| hitting nearby enemies {hitCount} times for <color=white>{damage}%</color> damage. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_DarkBoom_Name,검은 폭탄,Dark Boom
+Skill_DragonBreath_Desc,거대한 불길을 방출합니다. 불길에 닿은 적은 0.2초마다 <color=white>{damage}%</color>의 대미지를 입습니다. <color=yellow>(쿨타임 {cooldown}초)</color>,Unleashes a massive flame. Enemies touched by the flame take <color=white>{damage}%</color> damage every 0.2 seconds. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_DragonBreath_Name,드래곤 브레스,Dragon Breath
+Skill_Effect,보유 효과,Passive Effect 
+Skill_Effect_ExpBonus,경험치 획득량 증가,Exp Bonus
+Skill_Effect_GoldBonus,골드 획득량 증가,Increased Gold Gain
+Skill_Explosion_Desc,광범위한범위에 폭발을 30회 일으킵니다. 휩쓸린 적은 <color=white>{damage}%</color>의 대미지를 {hitCount}회 받고| <color=blue>{chance}%</color>확률로 기절 상태가 됩니다.<color=yellow>(쿨타임 {cooldown}초)</color>,Triggers 30 explosions across a wide area. Enemies caught in the blasts take <color=white>{damage}%</color> damage {hitCount} times and have a <color=blue>{chance}%</color> chance to be stunned. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_Explosion_Name,익스플로전,Explosion
+Skill_Fireball_Desc,적을 추격하는 불꽃을 소환해 주변 최대 {targetCount}명의 적에게 소환해 <color=white>{damage}%</color>의 대미지로 {hitCount}번 피해를 입힙니다. 타격받은 적은 {chance}% 확률로 화상 상태가 됩니다.<color=yellow>(쿨타임 {cooldown}초)</color>,Summons a homing flame that chases and strikes up to {targetCount} nearby enemies {hitCount} times| dealing <color=white>{damage}%</color> damage. Hit enemies have a {chance}% chance to be burned. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_Fireball_Name,파이어볼,Fireball
+Skill_HolyBurst_Desc,빛의 에너지를 소환해 주변 최대 {targetCount}명의 적에게 <color=white>{damage}%</color>의 대미지로 {hitCount}번 피해를 입힙니다. <color=yellow>(쿨타임 {cooldown}초)</color>,Summons light energy to strike up to {targetCount} nearby enemies {hitCount} times| dealing <color=white>{damage}%</color> damage. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_HolyBurst_Name,홀리 버스트,Holy Burst
+Skill_IceArrow_Desc,전방에 얼음 화살을 5개 발사해 타격받은 적은 <color=white>{damage}%</color>의 대미지를 입고| <color=blue>{chance}%</color>확률로 빙결 상태가 됩니다. <color=yellow>(쿨타임 {cooldown}초)</color>,Fires 5 ice arrows forward. Enemies hit take <color=white>{damage}</color> damage and have a <color=blue>{chance}%</color> chance to be frozen. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_IceArrow_Name,아이스 애로우,Ice Arrow
+Skill_Lightning_Desc,적 위치에 번개를 내리치며 타격받은 적은 <color=white>{damage}%</color>의 대미지로 {hitCount}번 피해를 입습니다. 타격받은 적은 <color=blue>{chance}%</color>확률로 감전상태가 됩니다. <color=yellow>(쿨타임 {cooldown}초)</color>,Strikes lightning at enemy locations| dealing <color=white>{damage}%</color> damage {hitCount} times to each enemy hit. Enemies hit have a <color=blue>{chance}%</color> chance to be electrified. <color=yellow>(Cooldown: {cooldown} sec)</color>
+Skill_Lightning_Name,라이트닝,Lightning
+Stat_Attack,공격력,Attack
+Stat_AttackSpeed,공격속도,Attack Speed
+Stat_CriticalChance,크리티컬 확률,Critical Chance
+Stat_CriticalDamage,크리티컬 대미지,Critical Damage
+Stat_Health,체력,Health
+Stat_MoveSpeed,이동속도,Move Speed
+UI_Armor,방어구,Armor
+UI_BatchSynthesis,일괄 합성,Batch Synthesis
+UI_Consumables,소모품,Consumable Item
+UI_Equip,장착 효과,Equip
+UI_Equip,장착,Equip
+UI_Equipped,장착중,Equipped
+UI_EquippedEffect,장착 효과,Equipped Effect
+UI_GoMaxStage,최대 스테이지로,Go To Max Stage
+UI_Grade,단계,Stage
+UI_ItemSynthesisDesc,이 장비 5개를 소모해 다음 등급 장비를 획득합니다.,Use 5 of these equipment to obtain the next class of equipment.
+UI_LevelUp,레벨 업,Level Up
+UI_LevelUp,레벨 업,Level Up
+UI_MyLevel,내 레벨,Level
+UI_Necklace,목걸이,Necklace
+UI_Normal,일반,Normal
+UI_OwnedCount,보유 수량,Quantity
+UI_OwnedEffect,보유 효과,Owned Effect
+UI_Package,패키지,Package
+UI_ResetStat,스탯초기화,Reset
+UI_Score,스코어,Score
+UI_Shop,상점,Shop
+UI_Skill,스킬,Skill
+UI_Stage,스테이지,Stage
+UI_Stat,스탯,Stat
+UI_StatPoint,스탯포인트,Stat Point
+UI_Summon,소환,Summon
+UI_Summon10,10회 소환,Summon 10
+UI_Summon30,30회 소환,Summon 30
+UI_SummonArmor,방어구 소환,Armor
+UI_SummonNecklace,목걸이 소환,Necklace
+UI_SummonSkill,스킬 소환,Skill
+UI_SummonWeapon,무기 소환,Weapon
+UI_Synthesis,합성,Synthesis
+UI_Synthesis,합성,Synthesis
+UI_Upgrade,업그레이드,Upgrade
+UI_UpgradeMaterial,강화 재료,Upgrade Material
+UI_UpgradeType,강화,Upgrade
+UI_Weapon,무기,Weapon
+Weapon_Sword_01,나무칼,Wood Sword
+Weapon_Sword_02,돌검,Stone Sword
+Weapon_Sword_03,철검,Iron Sword
+Weapon_Sword_04,은검,Silver Sword
+Weapon_Sword_05,대검,Greatsword
+Weapon_Sword_06,시미터,Scimitar
+Weapon_Sword_07,크리스,Kris
+Weapon_Sword_08,피바라기,Bloodthirster
+Weapon_Sword_09,집행검,Executioner Sword
+Weapon_Sword_10,마검,Cursed Sword
+UI_ActiveSkill,액티브 스킬,Active Skill
+UI_PassiveSkill,패시브 스킬,Passive Skill
+Skill_Effect_HealthBonus,체력 보너스,Health Bonus
+Skill_Effect_DamageBonus,대미지 보너스,Damage Bonus
+UI_Awaken,각성,Awaken
+Shop_EnhanceDengeonTicket,강화 던전 입장권 ,Enhance Dengeon Ticket 
+UI_EA,개,Ea
+Shop_SoldOut,모든 상품을 구매했습니다.,purchased all the items.
+UI_Daily,일간,Daily
+UI_Account,계정당,Account
+UI_Weekly,주간,Weekly
+UI_Monthly,월간,Monthly
+Warning_NotEnoughCurrency,재화가 부족합니다.,Not Enough Currency.
+Shop_EnhanceDungeonTicket,강화석 던전 입장권,Enhance Dengeon Ticket 
+UI_Confirm,확인,Confirm
+UI_Cancel,취소,Cancel
+UI_PurchaseMessage,구매하시겠습니까? ,Would you like to purchase it?
+UI_ToastReward,획득 완료!,You got it! 
+UI_EnhanceDungeonName,장비 제련소,Gear Forge
+UI_SkillDungeonName,마법석 광산,Skillstone Mine
+UI_EnhanceDungeonDesc,장비 강화를 위한 강화석을 얻을 수 있는 제련소,A dungeon where Enhance Stones are found for equipment upgrades.
+UI_SkillDungeonDesc,깊은 광맥에서 마법석을 채굴할 수 있는 장소,A hidden mine rich with Skill Gems.
+HUD_Dungeon,던전,Dungeon
+UI_Dungeon,던전,Dungeon
+UI_EnhanceDungeonTicket,장비 제련소 입장권 ,Gear Forge Ticket
+UI_SkillDungeonTicket,마법석 광산 입장권,Skillstone Mine Ticket
+UI_None,스테이지,Stage
+UI_EnhanceDungeonName,장비 제련소 ,Gear Forge
+UI_RequiredTicket,◆ 필요한 입장권,◆ Required Ticket
+UI_ClearReward,◆ 클리어 보상,◆ Clear Reward
+UI_Sweep,소탕하기,Sweep
+UI_Enter,입장하기,Enter
+UI_EnhanceDungeon,장비 제련소 ,Gear Forge
+UI_NextStage,다음 단계 도전하기,Challenge Next Stage 
+UI_Exit,나가기,Exit
+UI_AutoExit,초후 자동으로 돌아갑니다,Seconds Until Auto Return 
+UI_Retry,다시 도전,Retry
+UI_EarnedReward,획득한 보상,Rewards Earned 
+UI_NoStatPoint,스탯 포인트가 부족합니다.,No Stat Points Available
+UI_StageSelectPlaceholder,원하는 스테이지를 입력해주세요.,Please enter the stage you want.
+UI_Awaken_MAX,최대 각성,MAX Awaken
+UI_EnhanceStone,장비 강화석,Enhance Stone
+UI_CheckSweep,소탕하시겠습니까?,Sweep this dungeon?
+UI_GiveUp,포기하기,Give Up
+UI_NotEnoughTicket,입장권이 부족합니다.,Not enough tickets.
+Option_Title,옵션,Options
+Option_Sound,사운드 설정,Audio Setting
+Option_BGM,배경음,BGM
+Option_SFX,효과음,SFX
+Option_Language,언어 설정,Language Setting
+Option_KR,한국어,Korean
+Option_EN,영어,Engilish
+Option_Account,계정 설정,Account Setting
+Option_SignOut,로그아웃,Sign-Out
+UI_Leaderboard,리더보드,Leaderboard
+Loading,로딩중...,Now Loading…
+UI_EnsureSignOut,정말로 로그아웃 하시겠습니까? 다시 로그인 하려면 게임을 재시작 해야 합니다.,Are you sure you want to log out? You will need to restart the game to log in again.
+UI_EnsureQuit,게임을 종료하시겠습니까?,Do you want to quit the game?
+UI_EnsureNickname,이 닉네임으로 하시겠습니까?,Do you want to use this nickname? 
+UI_CheckGiveUp,포기하시겠습니까?,Do you want to give up? 
+UI_SkillDungeon,마법석 광산,Skill Gem Mine
+UI_Challenge,도전하기,Challenge
+UI_SkillGem,스킬 강화석,Skill Gem
+UI_Summon100,100회 소환,Summon 100
+UI_Hours,시간,Hours
+UI_Minutes,분,Minutes
+UI_OfflineReward,오프라인 보상,Offline Reward
+UI_MaxOfflineTime,최대 24시간,Up to 24 hours 
+UI_RewardList,보상 목록,Reward List 
+UI_GetReward,획득하기,Claim 
+UI_ResultPopupClose,화면 터치해서 닫기,Tap screen to close 
+Skill_Lightning_Awaken_1,최대 강화 레벨 증가| 타겟수 증가 ,Increase Max Enhancement Level| Increase Target Count
+Skill_Lightning_Awaken_2,최대 강화 레벨 증가| 타겟수 증가 ,Increase Max Enhancement Level| Increase Target Count
+Skill_Lightning_Awaken_3,최대 강화 레벨 증가| 타겟수 증가 ,Increase Max Enhancement Level| Increase Target Count
+Skill_Lightning_Awaken_4,최대 강화 레벨 증가| 타겟수 증가 ,Increase Max Enhancement Level| Increase Target Count
+Skill_DarkBoom_Awaken_1,최대 강화 레벨 증가| 피해 범위 25% 증가 ,Increase Max Enhancement Level| Damage Area +25%
+Skill_DarkBoom_Awaken_2,최대 강화 레벨 증가| 피해 범위 50% 증가 ,Increase Max Enhancement Level| Damage Area +50%
+Skill_DarkBoom_Awaken_3,최대 강화 레벨 증가| 피해 범위 75% 증가 ,Increase Max Enhancement Level| Damage Area +75%
+Skill_DarkBoom_Awaken_4,최대 강화 레벨 증가| 피해 범위 100% 증가 ,Increase Max Enhancement Level| Damage Area +100%
+Skill_HolyBurst_Awaken_1,최대 강화 레벨 증가,Increase Max Enhancement Level 
+Skill_HolyBurst_Awaken_2,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_HolyBurst_Awaken_3,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_HolyBurst_Awaken_4,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_DragonBreath_Awaken_1,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_DragonBreath_Awaken_2,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_DragonBreath_Awaken_3,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_DragonBreath_Awaken_4,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_IceArrow_Awaken_1,최대 강화 레벨 증가| 투사체 개수 6개로 증가,Increase Max Enhancement Level| Projectiles increased to 6
+Skill_IceArrow_Awaken_2,최대 강화 레벨 증가| 투사체 개수 7개로 증가,Increase Max Enhancement Level| Projectiles increased to 7
+Skill_IceArrow_Awaken_3,최대 강화 레벨 증가| 투사체 개수 8개로 증가,Increase Max Enhancement Level| Projectiles increased to 8
+Skill_IceArrow_Awaken_4,최대 강화 레벨 증가| 투사체 개수 9개로 증가,Increase Max Enhancement Level| Projectiles increased to 9
+Skill_Explosion_Awaken_1,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Explosion_Awaken_2,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Explosion_Awaken_3,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Explosion_Awaken_4,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Fireball_Awaken_1,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Fireball_Awaken_2,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Fireball_Awaken_3,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Fireball_Awaken_4,최대 강화 레벨 증가 ,Increase Max Enhancement Level 
+Skill_Charge_Awaken_1,최대 강화 레벨 증가| 최대 돌진 횟수 증가 ,Increase Max Enhancement Level| Increase Max Charge Count
+Skill_Charge_Awaken_2,최대 강화 레벨 증가| 최대 돌진 횟수 증가 ,Increase Max Enhancement Level| Increase Max Charge Count
+Skill_Charge_Awaken_3,최대 강화 레벨 증가| 최대 돌진 횟수 증가 ,Increase Max Enhancement Level| Increase Max Charge Count
+Skill_Charge_Awaken_4,최대 강화 레벨 증가| 최대 돌진 횟수 증가 ,Increase Max Enhancement Level| Increase Max Charge Count
+UI_CantExecute,스킬을 사용할 수 없습니다.,Cannot use skill.
+UI_GlobalCooldown,글로벌 쿨타임 진행중입니다. ,Global cooldown in progress.
+UI_NotEnoughSkillGem,스킬 강화석이 부족합니다.,No tEnough Skill Gem
