@@ -22,10 +22,10 @@
 		{
 			"name": "EnemyData.csv",
 			"url": "https://hundredbong.github.io/Project_I_hotdata/hotdata/EnemyData.csv",
-			"version": "2025.08.25.1",
+			"version": "2025.08.27.1",
 			"schemaVersion": "1.0",
-			"sha256": "e280dd4207edc4050a38a4c25a5f8cdcc50e8b7149bc68e9cdb247e829e50584",
-			"size": 247
+			"sha256": "2beb5539553328035b14ec9c722590c61308221105b1c7925582530a8439b8e4",
+			"size": 243
 		},
 		{
 			"name": "ExpData.csv",
