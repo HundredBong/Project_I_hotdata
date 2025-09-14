@@ -217,3 +217,10 @@ Skill_Charge_Awaken_4,최대 강화 레벨 증가| 최대 돌진 횟수 증가 ,
 UI_CantExecute,스킬을 사용할 수 없습니다.,Cannot use skill.
 UI_GlobalCooldown,글로벌 쿨타임 진행중입니다. ,Global cooldown in progress.
 UI_NotEnoughSkillGem,스킬 강화석이 부족합니다.,No tEnough Skill Gem
+UI_닉네임에 비속어 있음,닉네임에 비속어가 포함되어있습니다.,The nickname contains profanity.
+UI_닉네임에 공백 있음,닉네임에 공백이 포함되어 있습니다.,The nickname contains spaces.
+UI_닉네임 길이는 최대 8글자,닉네임은 최대 8글자까지 입니다.,The nickname can be up to 8 characters long.
+UI_닉네임 길이는 최소 2글자,닉네임은 최소 2글자 이상이어야 합니다.,The nickname must be at least 2 characters long.
+UI_사용 가능한 닉네임임,사용 가능한 닉네임입니다.,The nickname is available.
+UI_FirebaseLoading,서버에서 데이터를 받아오고 있습니다.,Retrieving data from the server.
+UI_DataLoading,필요한 파일을 확인중입니다.,Checking required files.
