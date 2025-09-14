@@ -70,18 +70,18 @@
 		{
 			"name": "LocalizedTextData.csv",
 			"url": "https://hundredbong.github.io/Project_I_hotdata/hotdata/LocalizedTextData.csv",
-			"version": "2025.08.25.1",
+			"version": "2025.09.14.1",
 			"schemaVersion": "1.0",
-			"sha256": "629e49bbc9278e9a1eeca1ea2bc7027588e6e6a227a210c2aaea3276daa0e6a6",
-			"size": 15566
+			"sha256": "d5f734a63bec7876e612987138adbc07508c9d15e6a54a1c5795b9e0aa5196c5",
+			"size": 16353
 		},
 		{
 			"name": "SkillData.csv",
 			"url": "https://hundredbong.github.io/Project_I_hotdata/hotdata/SkillData.csv",
-			"version": "2025.08.25.1",
+			"version": "2025.09.14.1",
 			"schemaVersion": "1.0",
-			"sha256": "ffe5403bc9bcfcc15a06087fce95730f58a982941592f0d2f26a43ee920efd1f",
-			"size": 1568
+			"sha256": "8d4a300606a1c97b837a77029c3fbbb56653a95fcd69e2d4baac51280a366c49",
+			"size": 1570
 		},
 		{
 			"name": "SkillShopData.csv",
